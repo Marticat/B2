@@ -1,4 +1,3 @@
-ERC-20 Token Implementation
 This project implements an ERC-20 token contract on the Ethereum blockchain. It allows you to deploy a token with the ability to transfer, approve, and manage balances, while also providing basic token functionality like name, symbol, and decimal precision.
 
 Features
@@ -10,7 +9,7 @@ Features
 Installation
 Clone the repository:
 
-git clone https://github.com/asylbekuly/ERC20-Token-Implementation.git
+git clone https://github.com/Marticat/B2
 
 Install dependencies:
 

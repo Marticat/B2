@@ -14,8 +14,8 @@ module.exports = {
   },
   networks: {
     holesky: {
-      url: "https://ethereum-holesky-rpc.publicnode.com", // RPC URL
-      accounts: [`353a1bc00315b4b6b7191514644d9de4256eaed462602767c87543f19c1cf3f8`] // Приватный ключ
+      url: "", // RPC URL
+      accounts: [``] // Приватный ключ
     }
   }
 };
